@@ -1,0 +1,644 @@
+2023-09-12 15:45:02,846: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-12 15:45:04,156: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-12 15:45:04,361: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-12 15:45:04,438: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-12 15:45:04,533: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-12 15:45:04,664: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-12 15:45:04,774: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-12 15:45:06,767: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-12 15:45:09,987: INFO: Test_Registration: test_registration: 42: taking screenshot
+2023-09-12 15:45:12,034: INFO: Test_Registration: test_registration: 45: print failed_message/n
+
+2023-09-12 15:46:21,324: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-12 15:46:22,505: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-12 15:46:22,683: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-12 15:46:22,803: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-12 15:46:22,895: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-12 15:46:23,024: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-12 15:46:23,150: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-12 15:46:26,167: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-12 15:46:29,397: INFO: Test_Registration: test_registration: 32: taking screenshot
+2023-09-12 15:46:30,426: INFO: Test_Registration: test_registration: 35: print successful_message
+2023-09-12 15:46:32,589: INFO: Test_Registration: test_registration: 37: click logout/n
+2023-09-12 15:47:55,544: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-12 15:47:56,819: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-12 15:47:57,031: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-12 15:47:57,128: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-12 15:47:57,237: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-12 15:47:57,432: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-12 15:47:57,506: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-12 15:47:59,430: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-12 15:48:02,602: INFO: Test_Registration: test_registration: 42: taking screenshot
+2023-09-12 15:48:04,633: INFO: Test_Registration: test_registration: 45: print failed_message
+
+2023-09-12 15:48:55,752: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-12 15:48:58,029: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-12 15:48:58,127: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-12 15:48:58,199: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-12 15:48:58,289: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-12 15:48:58,411: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-12 15:48:58,483: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-12 15:49:00,433: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-12 15:49:03,643: INFO: Test_Registration: test_registration: 42: taking screenshot
+2023-09-12 15:49:05,702: INFO: Test_Registration: test_registration: 45: print failed_message
+
+2023-09-12 15:49:40,671: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-12 15:49:41,954: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-12 15:49:42,186: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-12 15:49:42,266: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-12 15:49:42,372: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-12 15:49:42,531: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-12 15:49:42,637: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-12 15:49:45,637: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-12 15:49:48,793: INFO: Test_Registration: test_registration: 32: taking screenshot
+2023-09-12 15:49:49,851: INFO: Test_Registration: test_registration: 35: print successful_message
+2023-09-12 15:49:52,057: INFO: Test_Registration: test_registration: 37: click logout
+
+2023-09-14 18:00:48,563: INFO: Test_Registration: test_registration: 12: open Browser
+2023-09-14 18:00:50,698: INFO: Test_Registration: test_registration: 15: Click on create Account
+2023-09-14 18:00:50,817: INFO: Test_Registration: test_registration: 17: Enter first_name
+2023-09-14 18:00:50,900: INFO: Test_Registration: test_registration: 19: Enter last_name
+2023-09-14 18:00:51,025: INFO: Test_Registration: test_registration: 21: Enter email id
+2023-09-14 18:00:51,229: INFO: Test_Registration: test_registration: 23: Enter Password
+2023-09-14 18:00:51,313: INFO: Test_Registration: test_registration: 25: Enter confirm_password
+2023-09-14 18:00:53,356: INFO: Test_Registration: test_registration: 27: Click create account
+2023-09-14 18:00:56,640: INFO: Test_Registration: test_registration: 42: taking screenshot
+2023-09-14 18:00:58,693: INFO: Test_Registration: test_registration: 45: print failed_message
+
+2023-10-07 14:50:14,388: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 14:50:15,618: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 14:50:15,835: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 14:50:15,966: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 14:50:18,070: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 14:50:23,194: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 14:50:25,302: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 14:50:27,450: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 14:50:29,581: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 14:50:31,670: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 14:50:33,821: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 14:50:35,953: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 14:50:41,052: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 14:50:48,340: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 14:50:51,446: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 14:50:54,557: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 14:50:56,659: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 14:51:03,189: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 15:04:38,934: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 15:04:40,067: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 15:04:40,323: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 15:04:40,422: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 15:04:42,532: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 15:04:47,901: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 15:04:49,977: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 15:04:52,044: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 15:04:54,130: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 15:04:56,196: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 15:04:58,267: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 15:05:00,337: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 15:05:05,422: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 15:05:10,918: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 15:05:14,063: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 15:05:17,167: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 15:05:19,254: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 15:05:26,699: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 15:05:31,795: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 15:06:56,966: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 15:06:58,159: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 15:06:58,329: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 15:06:58,447: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 15:07:00,524: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 15:07:05,473: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 15:07:07,539: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 15:07:09,627: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 15:07:11,713: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 15:07:13,769: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 15:07:15,833: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 15:07:17,925: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 15:07:23,010: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 15:07:30,154: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 15:07:33,275: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 15:07:36,380: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 15:07:38,488: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 15:07:45,660: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 15:07:50,736: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 18:37:53,937: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 18:37:55,264: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 18:37:55,522: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 18:37:55,631: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 18:37:57,530: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 18:38:04,090: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 18:38:06,185: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 18:38:08,256: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 18:38:10,333: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 18:38:12,474: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 18:38:14,543: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 18:38:16,619: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 18:38:21,704: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 18:38:29,036: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 18:38:32,142: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 18:38:35,251: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 18:38:37,364: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 18:38:43,307: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 18:38:48,400: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 18:39:22,833: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 18:39:23,970: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 18:39:24,156: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 18:39:24,286: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 18:39:26,159: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 18:39:31,564: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 18:39:33,659: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 18:39:35,721: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 18:39:37,808: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 18:39:39,889: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 18:39:41,961: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 18:39:44,035: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 18:39:49,134: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 18:39:55,627: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 18:39:58,748: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 18:40:01,873: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 18:40:03,977: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 18:40:10,425: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 18:40:15,506: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 18:51:57,552: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 18:51:58,717: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 18:51:58,977: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 18:51:59,079: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 18:52:00,873: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 18:52:06,288: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 18:52:08,385: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 18:52:10,447: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 18:52:12,548: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 18:52:14,619: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 18:52:16,702: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 18:52:18,776: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 18:52:23,876: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 18:52:32,054: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 18:52:35,158: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 18:52:38,278: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 18:52:40,380: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 18:52:47,413: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 18:52:52,746: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 20:50:30,766: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 20:50:31,980: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 20:50:32,278: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 20:50:32,387: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 20:50:34,261: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 20:50:39,874: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 20:50:42,025: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 20:50:44,137: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 20:50:46,254: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 20:50:48,333: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 20:50:50,428: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 20:50:52,511: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 20:50:57,640: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 20:51:04,623: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 20:51:07,824: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 20:51:10,974: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 20:51:13,149: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 20:51:20,187: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 20:51:25,305: INFO: Test_product_payment: test_product: 68: Click on New address
+2023-10-07 20:51:30,410: INFO: Test_product_payment: test_product: 94: Enter company name
+2023-10-07 20:51:33,618: INFO: Test_product_payment: test_product: 97: Enter Street Address
+2023-10-07 20:51:36,769: INFO: Test_product_payment: test_product: 100: Enter City
+2023-10-07 20:51:39,952: INFO: Test_product_payment: test_product: 103: Enter Country
+2023-10-07 20:51:43,099: INFO: Test_product_payment: test_product: 106: Enter State
+2023-10-07 20:51:46,273: INFO: Test_product_payment: test_product: 109: Enter Zip
+2023-10-07 20:51:49,438: INFO: Test_product_payment: test_product: 112: Enter Phone number
+2023-10-07 20:51:54,570: INFO: Test_product_payment: test_product: 115: Uncheck save address
+2023-10-07 20:51:57,723: INFO: Test_product_payment: test_product: 118: Click on Ship Here
+2023-10-07 20:52:02,852: INFO: Test_product_payment: test_product: 121: Click on  Shipping method
+2023-10-07 20:52:05,966: INFO: Test_product_payment: test_product: 124: Click on next
+2023-10-07 20:52:09,214: INFO: Test_product_payment: test_product: 127: Click on Place Order
+2023-10-07 20:52:12,889: INFO: Test_product_payment: test_product: 133: Print confirmation message
+2023-10-07 20:52:14,952: INFO: Test_product_payment: test_product: 136: Print Order number
+2023-10-07 20:52:17,019: INFO: Test_product_payment: test_product: 139: Click on menu
+2023-10-07 20:52:21,300: INFO: Test_product_payment: test_product: 142: Click on Signout
+2023-10-07 20:55:27,909: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 20:55:30,279: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 20:55:30,508: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 20:55:30,614: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 20:55:32,864: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 20:55:38,783: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 20:55:40,896: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 20:55:43,057: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 20:55:45,170: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 20:55:47,286: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 20:55:49,380: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 20:55:51,473: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 20:55:56,608: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 20:56:03,355: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 20:56:06,541: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 20:56:09,736: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 20:56:11,884: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 20:56:18,801: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 21:00:24,638: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 21:00:25,895: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 21:00:26,052: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 21:00:26,164: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 21:00:28,235: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 21:00:35,541: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 21:00:37,683: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 21:00:39,790: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 21:00:41,877: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 21:00:44,001: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 21:00:46,180: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 21:00:48,282: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 21:00:53,390: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 21:01:01,153: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 21:01:04,303: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 21:01:07,443: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 21:01:09,551: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 21:01:17,943: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 21:07:28,380: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 21:07:30,174: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 21:07:30,388: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 21:07:30,489: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 21:07:32,900: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 21:07:39,873: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 21:07:42,033: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 21:07:44,192: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 21:07:46,367: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 21:07:48,471: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 21:07:50,543: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 21:07:52,619: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 21:07:57,831: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 21:09:01,646: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 21:09:03,617: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 21:09:03,911: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 21:09:04,021: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 21:09:06,066: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 21:09:11,979: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 21:09:14,097: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 21:09:16,245: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 21:09:18,368: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 21:09:20,457: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 21:09:22,576: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 21:09:24,668: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 21:09:29,809: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 21:09:37,641: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 21:09:40,826: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 21:09:43,977: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 21:09:46,100: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 21:09:52,742: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 21:09:57,873: INFO: Test_product_payment: test_product: 91: Click on New address
+2023-10-07 21:10:00,970: INFO: Test_product_payment: test_product: 94: Enter company name
+2023-10-07 21:10:04,166: INFO: Test_product_payment: test_product: 97: Enter Street Address
+2023-10-07 21:10:07,353: INFO: Test_product_payment: test_product: 100: Enter City
+2023-10-07 21:10:10,489: INFO: Test_product_payment: test_product: 103: Enter Country
+2023-10-07 21:10:13,619: INFO: Test_product_payment: test_product: 106: Enter State
+2023-10-07 21:10:16,788: INFO: Test_product_payment: test_product: 109: Enter Zip
+2023-10-07 21:10:19,968: INFO: Test_product_payment: test_product: 112: Enter Phone number
+2023-10-07 21:10:25,100: INFO: Test_product_payment: test_product: 115: Uncheck save address
+2023-10-07 21:10:28,232: INFO: Test_product_payment: test_product: 118: Click on Ship Here
+2023-10-07 21:10:33,348: INFO: Test_product_payment: test_product: 121: Click on  Shipping method
+2023-10-07 21:10:36,427: INFO: Test_product_payment: test_product: 124: Click on next
+2023-10-07 21:16:03,477: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 21:16:04,724: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 21:16:04,924: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 21:16:05,047: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 21:16:07,150: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 21:16:12,367: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 21:16:14,494: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 21:16:16,603: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 21:16:18,742: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 21:16:20,864: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 21:16:23,005: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 21:16:25,123: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 21:16:30,257: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 21:16:37,814: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 21:16:40,991: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 21:16:44,199: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 21:16:46,318: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 21:16:55,277: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 21:17:03,421: INFO: Test_product_payment: test_product: 69: Enter company name
+2023-10-07 21:17:06,614: INFO: Test_product_payment: test_product: 72: Enter Street Address
+2023-10-07 21:17:09,771: INFO: Test_product_payment: test_product: 75: Enter City
+2023-10-07 21:17:12,935: INFO: Test_product_payment: test_product: 78: Enter Country
+2023-10-07 21:17:16,053: INFO: Test_product_payment: test_product: 81: Enter State
+2023-10-07 21:17:19,210: INFO: Test_product_payment: test_product: 84: Enter Zip
+2023-10-07 21:17:22,448: INFO: Test_product_payment: test_product: 87: Enter Phone number
+2023-10-07 21:17:29,610: INFO: Test_product_payment: test_product: 121: Click on  Shipping method
+2023-10-07 21:17:32,730: INFO: Test_product_payment: test_product: 124: Click on next
+2023-10-07 21:17:35,803: INFO: Test_product_payment: test_product: 127: Click on Place Order
+2023-10-07 21:17:39,557: INFO: Test_product_payment: test_product: 133: Print confirmation message
+2023-10-07 21:17:41,641: INFO: Test_product_payment: test_product: 136: Print Order number
+2023-10-07 21:17:43,745: INFO: Test_product_payment: test_product: 139: Click on menu
+2023-10-07 21:17:47,746: INFO: Test_product_payment: test_product: 142: Click on Signout
+2023-10-07 21:18:43,739: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 21:18:45,007: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 21:18:45,203: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 21:18:45,336: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 21:18:47,318: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 21:18:53,541: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 21:18:55,685: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 21:18:57,802: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 21:18:59,997: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 21:19:02,178: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 21:19:04,263: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 21:19:06,354: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 21:19:11,476: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 21:19:18,190: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 21:19:21,382: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 21:19:24,578: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 21:19:26,699: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 21:19:33,430: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 21:19:41,574: INFO: Test_product_payment: test_product: 91: Click on New address
+2023-10-07 21:19:44,720: INFO: Test_product_payment: test_product: 94: Enter company name
+2023-10-07 21:19:47,986: INFO: Test_product_payment: test_product: 97: Enter Street Address
+2023-10-07 21:19:51,155: INFO: Test_product_payment: test_product: 100: Enter City
+2023-10-07 21:19:54,316: INFO: Test_product_payment: test_product: 103: Enter Country
+2023-10-07 21:19:57,476: INFO: Test_product_payment: test_product: 106: Enter State
+2023-10-07 21:20:00,649: INFO: Test_product_payment: test_product: 109: Enter Zip
+2023-10-07 21:20:03,820: INFO: Test_product_payment: test_product: 112: Enter Phone number
+2023-10-07 21:20:08,927: INFO: Test_product_payment: test_product: 115: Uncheck save address
+2023-10-07 21:20:12,046: INFO: Test_product_payment: test_product: 118: Click on Ship Here
+2023-10-07 21:20:17,191: INFO: Test_product_payment: test_product: 121: Click on  Shipping method
+2023-10-07 21:20:20,298: INFO: Test_product_payment: test_product: 124: Click on next
+2023-10-07 21:20:23,436: INFO: Test_product_payment: test_product: 127: Click on Place Order
+2023-10-07 21:20:26,855: INFO: Test_product_payment: test_product: 133: Print confirmation message
+2023-10-07 21:20:28,914: INFO: Test_product_payment: test_product: 136: Print Order number
+2023-10-07 21:20:31,028: INFO: Test_product_payment: test_product: 139: Click on menu
+2023-10-07 21:20:35,184: INFO: Test_product_payment: test_product: 142: Click on Signout
+2023-10-07 22:42:08,975: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:42:10,612: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:42:10,784: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:42:10,911: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:42:12,789: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:42:15,359: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:42:15,922: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:42:16,006: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:42:17,913: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:42:18,397: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:42:18,491: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:42:18,580: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:42:18,667: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:43:49,417: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:43:50,817: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:43:51,048: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:43:51,151: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:43:53,086: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:43:55,931: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:43:56,041: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:43:56,142: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:43:56,228: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:43:56,309: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:43:56,369: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:43:56,435: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:43:56,510: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:43:59,741: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 22:43:59,905: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 22:44:00,039: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 22:44:00,113: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 22:45:02,625: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:45:03,872: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:45:04,066: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:45:04,193: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:45:05,958: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:45:08,225: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:45:08,654: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:45:08,811: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:45:10,770: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:45:11,215: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:45:11,279: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:45:11,353: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:45:11,487: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:46:07,943: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:46:09,890: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:46:10,056: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:46:10,153: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:46:11,842: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:46:14,490: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:46:14,576: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:46:14,657: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:46:14,746: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:46:14,817: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:46:14,881: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:46:14,947: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:46:15,019: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:46:18,603: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 22:46:18,759: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 22:46:18,898: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 22:46:19,019: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 22:47:11,179: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:47:12,261: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:47:12,420: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:47:12,560: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:47:14,272: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:47:16,666: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:47:17,045: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:47:17,143: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:47:17,245: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:47:17,316: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:47:17,386: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:47:17,456: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:47:17,534: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:47:21,956: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 22:47:22,075: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 22:47:22,207: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 22:47:22,307: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 22:47:27,971: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 22:49:01,805: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:49:02,920: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:49:03,117: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:49:03,238: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:49:05,039: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:49:08,130: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:49:08,251: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:49:08,353: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:49:08,435: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:49:08,508: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:49:08,574: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:49:08,642: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:49:08,721: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:49:11,815: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 22:49:11,967: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 22:49:12,086: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 22:49:12,166: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 22:49:18,007: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 22:49:22,114: INFO: Test_product_payment: test_product: 91: Click on New address
+2023-10-07 22:49:22,749: INFO: Test_product_payment: test_product: 94: Enter company name
+2023-10-07 22:49:22,900: INFO: Test_product_payment: test_product: 97: Enter Street Address
+2023-10-07 22:49:22,998: INFO: Test_product_payment: test_product: 100: Enter City
+2023-10-07 22:49:23,097: INFO: Test_product_payment: test_product: 103: Enter Country
+2023-10-07 22:49:23,203: INFO: Test_product_payment: test_product: 106: Enter State
+2023-10-07 22:49:23,366: INFO: Test_product_payment: test_product: 109: Enter Zip
+2023-10-07 22:49:23,484: INFO: Test_product_payment: test_product: 112: Enter Phone number
+2023-10-07 22:49:23,546: INFO: Test_product_payment: test_product: 115: Uncheck save address
+2023-10-07 22:49:23,621: INFO: Test_product_payment: test_product: 118: Click on Ship Here
+2023-10-07 22:50:10,380: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:50:12,033: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:50:12,152: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:50:12,254: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:50:14,007: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:50:16,613: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:50:16,721: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:50:16,831: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:50:16,917: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:50:16,998: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:50:17,064: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:50:17,135: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:50:17,213: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:50:20,534: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 22:50:20,648: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 22:50:20,769: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 22:50:20,846: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 22:50:26,440: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 22:50:30,562: INFO: Test_product_payment: test_product: 91: Click on New address
+2023-10-07 22:50:31,196: INFO: Test_product_payment: test_product: 94: Enter company name
+2023-10-07 22:50:31,363: INFO: Test_product_payment: test_product: 97: Enter Street Address
+2023-10-07 22:50:31,463: INFO: Test_product_payment: test_product: 100: Enter City
+2023-10-07 22:50:31,553: INFO: Test_product_payment: test_product: 103: Enter Country
+2023-10-07 22:50:31,630: INFO: Test_product_payment: test_product: 106: Enter State
+2023-10-07 22:50:31,732: INFO: Test_product_payment: test_product: 109: Enter Zip
+2023-10-07 22:50:31,842: INFO: Test_product_payment: test_product: 112: Enter Phone number
+2023-10-07 22:50:31,898: INFO: Test_product_payment: test_product: 115: Uncheck save address
+2023-10-07 22:50:31,971: INFO: Test_product_payment: test_product: 118: Click on Ship Here
+2023-10-07 22:50:35,059: INFO: Test_product_payment: test_product: 121: Click on  Shipping method
+2023-10-07 22:50:35,128: INFO: Test_product_payment: test_product: 124: Click on next
+2023-10-07 22:50:37,882: INFO: Test_product_payment: test_product: 127: Click on Place Order
+2023-10-07 22:50:37,943: INFO: Test_product_payment: test_product: 133: Print confirmation message
+2023-10-07 22:50:41,626: INFO: Test_product_payment: test_product: 136: Print Order number
+2023-10-07 22:50:41,854: INFO: Test_product_payment: test_product: 139: Click on menu
+2023-10-07 22:50:43,444: INFO: Test_product_payment: test_product: 142: Click on Signout
+2023-10-07 22:55:37,133: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:55:38,282: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:55:38,551: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:55:38,668: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:55:40,357: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:55:42,955: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:55:43,059: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:55:43,153: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:55:43,231: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:55:43,305: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:55:43,371: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:55:43,434: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:55:43,504: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 22:57:43,198: INFO: Test_Registration: test_registration: 15: open Browser
+2023-10-07 22:57:45,120: INFO: Test_Registration: test_registration: 18: Click on create Account
+2023-10-07 22:57:45,267: INFO: Test_Registration: test_registration: 20: Enter first_name
+2023-10-07 22:57:45,340: INFO: Test_Registration: test_registration: 22: Enter last_name
+2023-10-07 22:57:45,431: INFO: Test_Registration: test_registration: 24: Enter email id
+2023-10-07 22:57:45,546: INFO: Test_Registration: test_registration: 26: Enter Password
+2023-10-07 22:57:45,624: INFO: Test_Registration: test_registration: 28: Enter confirm_password
+2023-10-07 22:57:47,528: INFO: Test_Registration: test_registration: 30: Click create account
+2023-10-07 22:57:50,699: INFO: Test_Registration: test_registration: 45: taking screenshot
+2023-10-07 22:57:52,737: INFO: Test_Registration: test_registration: 48: print failed_message
+
+2023-10-07 22:58:21,285: INFO: Test_Registration: test_registration: 15: open Browser
+2023-10-07 22:58:23,802: INFO: Test_Registration: test_registration: 18: Click on create Account
+2023-10-07 22:58:23,941: INFO: Test_Registration: test_registration: 20: Enter first_name
+2023-10-07 22:58:24,004: INFO: Test_Registration: test_registration: 22: Enter last_name
+2023-10-07 22:58:24,115: INFO: Test_Registration: test_registration: 24: Enter email id
+2023-10-07 22:58:24,227: INFO: Test_Registration: test_registration: 26: Enter Password
+2023-10-07 22:58:24,324: INFO: Test_Registration: test_registration: 28: Enter confirm_password
+2023-10-07 22:58:26,193: INFO: Test_Registration: test_registration: 30: Click create account
+2023-10-07 22:58:29,394: INFO: Test_Registration: test_registration: 45: taking screenshot
+2023-10-07 22:58:31,438: INFO: Test_Registration: test_registration: 48: print failed_message
+
+2023-10-07 22:58:47,686: INFO: Test_Registration: test_registration: 15: open Browser
+2023-10-07 22:58:49,007: INFO: Test_Registration: test_registration: 18: Click on create Account
+2023-10-07 22:58:49,219: INFO: Test_Registration: test_registration: 20: Enter first_name
+2023-10-07 22:58:49,311: INFO: Test_Registration: test_registration: 22: Enter last_name
+2023-10-07 22:58:49,402: INFO: Test_Registration: test_registration: 24: Enter email id
+2023-10-07 22:58:49,503: INFO: Test_Registration: test_registration: 26: Enter Password
+2023-10-07 22:58:49,583: INFO: Test_Registration: test_registration: 28: Enter confirm_password
+2023-10-07 22:58:52,490: INFO: Test_Registration: test_registration: 30: Click create account
+2023-10-07 22:58:55,694: INFO: Test_Registration: test_registration: 35: taking screenshot
+2023-10-07 22:58:56,737: INFO: Test_Registration: test_registration: 38: print successful_message
+2023-10-07 22:58:58,329: INFO: Test_Registration: test_registration: 40: click logout
+
+2023-10-07 22:59:32,248: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 22:59:33,339: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 22:59:33,538: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 22:59:33,658: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 22:59:35,340: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 22:59:38,055: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 22:59:38,172: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 22:59:38,248: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 22:59:38,333: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 22:59:38,415: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 22:59:38,481: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 22:59:38,554: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 22:59:38,620: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 23:00:59,025: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 23:01:00,222: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 23:01:00,444: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 23:01:00,587: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 23:01:02,425: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 23:01:04,647: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 23:01:05,057: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 23:01:05,145: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 23:01:05,262: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 23:01:05,339: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 23:01:05,414: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 23:01:05,483: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 23:01:07,568: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 23:01:10,425: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 23:01:10,582: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 23:01:10,715: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 23:01:10,821: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 23:01:16,535: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 23:02:00,730: INFO: Test_product_payment: test_product: 69: Enter company name
+2023-10-07 23:02:00,891: INFO: Test_product_payment: test_product: 72: Enter Street Address
+2023-10-07 23:02:01,007: INFO: Test_product_payment: test_product: 75: Enter City
+2023-10-07 23:02:01,123: INFO: Test_product_payment: test_product: 78: Enter Country
+2023-10-07 23:02:01,215: INFO: Test_product_payment: test_product: 81: Enter State
+2023-10-07 23:02:01,342: INFO: Test_product_payment: test_product: 84: Enter Zip
+2023-10-07 23:02:01,474: INFO: Test_product_payment: test_product: 87: Enter Phone number
+2023-10-07 23:03:03,720: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 23:03:04,842: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 23:03:05,026: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 23:03:05,141: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 23:03:06,941: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 23:03:09,588: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 23:03:09,694: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 23:03:09,792: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 23:03:09,879: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 23:03:09,954: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 23:03:10,014: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 23:03:10,079: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 23:03:12,177: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 23:03:15,103: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 23:03:15,235: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 23:03:15,348: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 23:03:15,437: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 23:03:21,094: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 23:04:03,591: INFO: Test_product_payment: test_product: 69: Enter company name
+2023-10-07 23:04:03,769: INFO: Test_product_payment: test_product: 72: Enter Street Address
+2023-10-07 23:04:03,886: INFO: Test_product_payment: test_product: 75: Enter City
+2023-10-07 23:04:03,999: INFO: Test_product_payment: test_product: 78: Enter Country
+2023-10-07 23:04:04,076: INFO: Test_product_payment: test_product: 81: Enter State
+2023-10-07 23:04:04,187: INFO: Test_product_payment: test_product: 84: Enter Zip
+2023-10-07 23:04:04,299: INFO: Test_product_payment: test_product: 87: Enter Phone number
+2023-10-07 23:05:20,198: INFO: Test_product_payment: test_product: 16: Open the browser
+2023-10-07 23:05:21,564: INFO: Test_product_payment: test_product: 19: Click login
+2023-10-07 23:05:21,693: INFO: Test_product_payment: test_product: 22: Enter Email
+2023-10-07 23:05:21,784: INFO: Test_product_payment: test_product: 24: Enter Password
+2023-10-07 23:05:24,642: INFO: Test_product_payment: test_product: 26: Click Signin
+2023-10-07 23:05:28,267: INFO: Test_product_payment: test_product: 29: Enter in Jacket Section
+2023-10-07 23:05:28,401: INFO: Test_product_payment: test_product: 32: Select Fitness Jacket size
+2023-10-07 23:05:28,483: INFO: Test_product_payment: test_product: 35: Select Fitness Jacket Color
+2023-10-07 23:05:28,577: INFO: Test_product_payment: test_product: 38: Add Fitness Jacket to Cart
+2023-10-07 23:05:28,657: INFO: Test_product_payment: test_product: 41: Select Wind Jacket size
+2023-10-07 23:05:28,733: INFO: Test_product_payment: test_product: 44: Select Wind Jacket color
+2023-10-07 23:05:28,807: INFO: Test_product_payment: test_product: 47: Add Wind Jacket to Cart
+2023-10-07 23:05:30,902: INFO: Test_product_payment: test_product: 50: Click add to cart
+2023-10-07 23:05:36,653: INFO: Test_product_payment: test_product: 53: Click on Edit cart
+2023-10-07 23:05:36,768: INFO: Test_product_payment: test_product: 56: Change quantity of Fitness Jacket
+2023-10-07 23:05:36,886: INFO: Test_product_payment: test_product: 59: Change quantity of wind Jacket size
+2023-10-07 23:05:36,972: INFO: Test_product_payment: test_product: 62: Click on Update shopping cart
+2023-10-07 23:05:44,914: INFO: Test_product_payment: test_product: 65: Click on Proceed checkout
+2023-10-07 23:06:25,362: INFO: Test_product_payment: test_product: 69: Enter company name
+2023-10-07 23:06:25,518: INFO: Test_product_payment: test_product: 72: Enter Street Address
+2023-10-07 23:06:25,618: INFO: Test_product_payment: test_product: 75: Enter City
+2023-10-07 23:06:25,716: INFO: Test_product_payment: test_product: 78: Enter Country
+2023-10-07 23:06:25,793: INFO: Test_product_payment: test_product: 81: Enter State
+2023-10-07 23:06:25,903: INFO: Test_product_payment: test_product: 84: Enter Zip
+2023-10-07 23:06:26,009: INFO: Test_product_payment: test_product: 87: Enter Phone number
+2023-10-07 23:06:31,118: INFO: Test_product_payment: test_product: 122: Click on  Shipping method
+2023-10-07 23:06:31,193: INFO: Test_product_payment: test_product: 125: Click on next
+2023-10-07 23:06:34,500: INFO: Test_product_payment: test_product: 128: Click on Place Order
+2023-10-07 23:06:34,556: INFO: Test_product_payment: test_product: 134: Print confirmation message
+2023-10-07 23:06:38,158: INFO: Test_product_payment: test_product: 137: Print Order number
+2023-10-07 23:06:38,337: INFO: Test_product_payment: test_product: 140: Click on menu
+2023-10-07 23:06:39,966: INFO: Test_product_payment: test_product: 143: Click on Signout
