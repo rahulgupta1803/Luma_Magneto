@@ -1,0 +1,43 @@
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:15 Opening browser
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:25 click on login
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:27 Enter Email
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:29 Enter Password
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:31 click on sign in
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:37 write "successful" in column 5 in excel
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:39 Take screenshot of login with rahuls@iesta.com-Rahul1234..
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:42 write "pass" in column 6 in excel
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:44 append the list with pass
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:46 click on logout
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:25 click on login
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:27 Enter Email
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:29 Enter Password
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:31 click on sign in
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:57 write "unsuccessful" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:59 take screenshot of login with rahuls@iesta.com-Rahul1234...
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:62 write "pass" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:64 Append list with pass
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:25 click on login
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:27 Enter Email
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:29 Enter Password
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:31 click on sign in
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:57 write "unsuccessful" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:59 take screenshot of login with Rahuls@hiesta.com-rahul12345
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:62 write "pass" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:64 Append list with pass
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:25 click on login
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:27 Enter Email
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:29 Enter Password
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:31 click on sign in
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:57 write "unsuccessful" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:59 take screenshot of login with Rahuls@pista.com-Rahul@12345
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:68 write "fail" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:70 Append list with fail
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:25 click on login
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:27 Enter Email
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:29 Enter Password
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:31 click on sign in
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:57 write "unsuccessful" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:59 take screenshot of login with Rahul@hust.com-Rahul@#$%
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:62 write "pass" in column 6 in excel sheet
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:64 Append list with pass
+[32mINFO    [0m Test_Login_ddt:test_login_ddt.py:73 Test is failed

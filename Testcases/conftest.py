@@ -27,3 +27,22 @@ def setup(browser):
     yield driver
     driver.quit()
     return driver
+
+def pytest_metadata(metadata):
+    metadata['tester'] = 'Rahul Gupta'
+    metadata['class'] = 'Credence'
+    metadata['batch'] = 'ct15'
+    metadata.pop('Packages', None)
+
+@pytest.fixture(params=[
+    ('rahuls@iesta.com','Rahul1234..'),
+    ('rahuls@iesta.com','Rahul1234...'),
+    ('Rahuls@hiesta.com','rahul12345'),
+    ('Rahul@pista.com','Rahul@12345'),
+    ('Rahul@husta.com','Rahul@#$%')
+])
+def getuserdata(request):
+    return request.param
+
+
+
